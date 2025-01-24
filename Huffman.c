@@ -1,3 +1,6 @@
+//Sct221-0378/2022 Neema Mutanu
+//SCT221-0232/2022 Roy Mwangi
+//SCT221-0257/2022 Douglas Bett
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
